@@ -1,0 +1,20 @@
+{
+  "name": "hexo-deployer-appfog",
+  "version": "0.0.1",
+  "description": "Appfog deployer for Hexo",
+  "author" : "Samuel Mesquita <samuelmesq@gmail.com>",
+  "keywords" : ["appfog","deployer","hexo" ],
+  "homepage" : "https://github.com/samuelmesq/hexo-deployer-appfog",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samuelmesq/hexo-deployer-appfog.git"
+  },
+  "engines": {
+    "hexo": ">= 1.0.0"
+  },
+  "main": "index",
+  "readmeFilename": "README.md",
+  "_id": "hexo-deployer-appfog@0.0.1",
+  "_from": "hexo-deployer-appfog@"
+}
